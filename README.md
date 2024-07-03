@@ -11,7 +11,7 @@ A simple yet powerful todo application built with a full-stack architecture. Thi
 Technologies Used
 Node.js
 Express
-MongoDB
+DynamoDB
 React
 HTML/CSS
 Contributing
