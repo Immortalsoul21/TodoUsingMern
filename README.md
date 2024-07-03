@@ -13,7 +13,7 @@ Node.js
 Express
 DynamoDB
 React
-HTML/CSS
+TailWind CSS
 Contributing
 Contributions are welcome! Please fork this repository and submit a pull request.
 
